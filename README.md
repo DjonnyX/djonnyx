@@ -31,3 +31,4 @@ Feel free to reach out to me via:
 
 * Email: [djonnyx@gmail.com](mailto:djonnyx@gmail.com)
 * LinkedIn: [Evgenii Grebennikov](https://www.linkedin.com/in/evgenii-grebennikov)
+* Telegram: @djonnyx
