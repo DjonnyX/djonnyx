@@ -25,18 +25,6 @@ I have a strong passion for open-source development and have contributed to vari
 
 ---
 
-### 📌 Pinned Projects
-
-Here are some of my notable repositories:
-
-* [ng-virtual-list](https://github.com/DjonnyX/ng-virtual-list): A lightweight virtual scrolling library for Angular.
-* [rcx-virtual-list](https://github.com/DjonnyX/rcx-virtual-list): A virtual list implementation for React.
-* [ng-virtual-grid](https://github.com/DjonnyX/ng-virtual-grid): An Angular component for displaying large datasets in a grid format.
-* [data-channel-router](https://github.com/DjonnyX/data-channel-router): A library for routing data channels in WebRTC applications.
-* [convex-pixel](https://github.com/DjonnyX/convex-pixel): A pixel art generator built with TypeScript.
-
----
-
 ### 📫 Get in Touch
 
 Feel free to reach out to me via:
