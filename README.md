@@ -4,11 +4,6 @@
 
 I'm a seasoned software developer with over a decade of experience in building scalable and efficient applications. Based in Russia, I specialize in:
 
-* **Frontend**: React, React Native, Angular
-* **Backend**: Node.js
-* **Languages**: TypeScript, JavaScript, ActionScript
-* **Tools & Technologies**: Docker, Webpack, Git
-
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
@@ -19,7 +14,10 @@ I'm a seasoned software developer with over a decade of experience in building s
 ![PIXI.js](https://img.shields.io/badge/PIXI.js-E535AA?style=flat&logo=pixijs&logoColor=white)
 ![WebGL](https://img.shields.io/badge/WebGL-000000?style=flat&logo=webgl&logoColor=white)
 
-I have a strong passion for open-source development and have contributed to various projects over the years.
+* **Frontend**: React, React Native, Angular
+* **Backend**: Node.js
+* **Languages**: TypeScript, JavaScript, ActionScript
+* **Tools & Technologies**: Docker, Webpack, Git
 
 🔗 [My Portfolio](https://eugene-grebennikov.pro)
 
