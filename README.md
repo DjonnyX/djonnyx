@@ -6,16 +6,8 @@ I'm a seasoned software developer with over a decade of experience in building s
 
 * **Frontend**: React, React Native, Angular
 * **Backend**: Node.js
-* **Languages**: TypeScript, JavaScript
+* **Languages**: TypeScript, JavaScript, ActionScript
 * **Tools & Technologies**: Docker, Webpack, Git
-
-I have a strong passion for open-source development and have contributed to various projects over the years.
-
-🔗 [My Portfolio](https://eugene-grebennikov.pro)
-
----
-
-### 🔧 Technologies & Tools
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -27,10 +19,9 @@ I have a strong passion for open-source development and have contributed to vari
 ![PIXI.js](https://img.shields.io/badge/PIXI.js-E535AA?style=flat&logo=pixijs&logoColor=white)
 ![WebGL](https://img.shields.io/badge/WebGL-000000?style=flat&logo=webgl&logoColor=white)
 
-* **Frontend**: React, React Native, Angular
-* **Backend**: Node.js
-* **Languages**: TypeScript, JavaScript
-* **Tools**: Docker, Webpack, Git
+I have a strong passion for open-source development and have contributed to various projects over the years.
+
+🔗 [My Portfolio](https://eugene-grebennikov.pro)
 
 ---
 
@@ -43,13 +34,6 @@ Here are some of my notable repositories:
 * [ng-virtual-grid](https://github.com/DjonnyX/ng-virtual-grid): An Angular component for displaying large datasets in a grid format.
 * [data-channel-router](https://github.com/DjonnyX/data-channel-router): A library for routing data channels in WebRTC applications.
 * [convex-pixel](https://github.com/DjonnyX/convex-pixel): A pixel art generator built with TypeScript.
-
----
-
-### 🏆 Achievements
-
-* **Arctic Code Vault Contributor**: Contributed code preserved in GitHub's Arctic Code Vault.
-* **Quickdraw**: Recognized for quick contributions and pull requests.
 
 ---
 
