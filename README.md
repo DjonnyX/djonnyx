@@ -1,8 +1,10 @@
 ## 👋 Hi there, I'm Evgenii Grebennikov (DjonnyX)
 
-### 🚀 About Me
+### About Me
 
-I'm a seasoned software developer with over a decade of experience in building scalable and efficient applications. Based in Russia, I specialize in:
+I’m a frontend dev specializing in **Angular**, **React**, and **TypeScript**  
+Passionate about building efficient virtual scrolling tools for massive datasets  
+In my free time: game dev, teaching, and exploring new tech
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -23,7 +25,12 @@ I'm a seasoned software developer with over a decade of experience in building s
 
 ---
 
-### 📫 Get in Touch
+###  Latest Article
+> “Extremely large lists or maximum list performance...” — [Read on Medium](https://medium.com/%40djonnyx/extremely-large-lists-or-maximum-list-performance-in-angular-e4988af48303) :contentReference[oaicite:9]{index=9}
+
+---
+
+### Let's Connect
 
 Feel free to reach out to me via:
 
