@@ -26,7 +26,7 @@ In my free time: game dev, teaching, and exploring new tech
 ---
 
 ###  Latest Article
-> “Extremely large lists or maximum list performance...” — [Read on Medium](https://medium.com/%40djonnyx/extremely-large-lists-or-maximum-list-performance-in-angular-e4988af48303) :contentReference[oaicite:9]{index=9}
+> “Extremely large lists or maximum list performance...” — [Read on Medium](https://medium.com/%40djonnyx/extremely-large-lists-or-maximum-list-performance-in-angular-e4988af48303)
 
 ---
 
