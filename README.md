@@ -2,9 +2,9 @@
 
 ### About Me
 
-I’m a frontend dev specializing in **Angular**, **React**, and **TypeScript**  
-Passionate about building efficient virtual scrolling tools for massive datasets  
-In my free time: game dev, teaching, and exploring new tech
+I am a frontend developer specializing in Angular, React and TypeScript.
+Passionate about creating efficient tools for creating high-speed interfaces.
+In my free time: developing frontend tools and learning new technologies.
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
