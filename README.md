@@ -32,8 +32,7 @@ In my free time: developing frontend tools and learning new technologies.
 
 ### Let's Connect
 
-Feel free to reach out to me via:
-
-* Email: [djonnyx@gmail.com](mailto:djonnyx@gmail.com)
-* LinkedIn: [Evgenii Grebennikov](https://www.linkedin.com/in/evgenii-grebennikov)
-* Telegram: @djonnyx
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:djonnyx@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/evgenii-grebennikov)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@djonnyx)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/djonnyx)
