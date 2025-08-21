@@ -1,6 +1,4 @@
-## 👋 Hi there, I'm Evgenii Grebennikov (DjonnyX)
-
-### About Me
+## Evgenii Grebennikov (DjonnyX)
 
 I am a frontend developer specializing in Angular, React and TypeScript.
 Passionate about creating efficient tools for creating high-speed interfaces.
