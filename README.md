@@ -16,7 +16,7 @@ In my free time: developing frontend tools and learning new technologies.
 
 * **Frontend**: React, React Native, Angular
 * **Backend**: Node.js
-* **Languages**: TypeScript, JavaScript, ActionScript
+* **Languages**: TypeScript, JavaScript
 * **Tools & Technologies**: Docker, Webpack, Git
 
 🔗 [My Portfolio](https://eugene-grebennikov.pro)
