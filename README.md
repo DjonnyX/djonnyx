@@ -15,7 +15,7 @@ In my free time: developing frontend tools and learning new technologies.
 ![WebGL](https://img.shields.io/badge/WebGL-000000?style=flat&logo=webgl&logoColor=white)
 
 * **Frontend**: React, React Native, Angular
-* **Backend**: Node.js
+* **Backend**: Node.js, Express
 * **Languages**: TypeScript, JavaScript
 * **Tools & Technologies**: Docker, Webpack, Git
 
