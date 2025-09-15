@@ -1,6 +1,6 @@
 ## Evgenii Grebennikov (DjonnyX)
 
-I am a senior frontend developer specializing in Angular, React, ReactNative and TypeScript.
+I am a JavaScript Engineer specializing in Angular, React, ReactNative, Node.js and TypeScript.
 Passionate about creating efficient tools for creating high-speed interfaces.
 In my free time: developing frontend tools and learning new technologies.
 
