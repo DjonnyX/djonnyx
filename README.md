@@ -24,7 +24,7 @@ In my free time: developing frontend tools and learning new technologies.
 ---
 
 ###  Latest Article
-> “Writing a high-performance viewport for a messenger.” — [Read on Medium](https://medium.com/@djonnyx/writing-a-high-performance-viewport-for-a-messenger-ffbe726bb72d)
+> “Writing a high-performance viewport for a messenger.” — [Read on Medium](https://medium.com/@djonnyx/writing-a-high-performance-viewport-for-a-messenger-ffbe726bb72d) </br>
 > “Extremely large lists or maximum list performance...” — [Read on Medium](https://medium.com/%40djonnyx/extremely-large-lists-or-maximum-list-performance-in-angular-e4988af48303)
 
 ---
