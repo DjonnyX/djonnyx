@@ -25,5 +25,7 @@ In my free time: developing frontend tools and learning new technologies.
 
 ###  Latest Article
 > "We design a professional front-end for a messenger" - [Read on Medium](https://medium.com/@djonnyx/we-design-a-professional-front-end-for-a-messenger-c68030d1d73d) </br>
-> “Writing a high-performance viewport for a messenger.” — [Read on Medium](https://medium.com/@djonnyx/writing-a-high-performance-viewport-for-a-messenger-ffbe726bb72d) </br>
-> “Extremely large lists or maximum list performance...” — [Read on Medium](https://medium.com/%40djonnyx/extremely-large-lists-or-maximum-list-performance-in-angular-e4988af48303)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:djonnyx@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/evgenii-grebennikov)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/djonnyx)
