@@ -24,6 +24,7 @@ In my free time: developing frontend tools and learning new technologies.
 ---
 
 ###  Latest Article
+> "Multifunctional lists ng-virtual-list as a replacement for standard ones" - [Read on Habr](https://habr.com/ru/articles/1045909) </br>
 > "We design a professional front-end for a messenger" - [Read on Medium](https://medium.com/@djonnyx/we-design-a-professional-front-end-for-a-messenger-c68030d1d73d) </br>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:djonnyx@gmail.com)
