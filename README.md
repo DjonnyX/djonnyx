@@ -14,6 +14,7 @@ In my free time: developing frontend tools and learning new technologies.
 ---
 
 ###  Latest Article
+> "Virtual Scroll Containers" - [Read on daily.dev](https://dly.to/Oin1SAmelvD) </br>
 > "Multifunctional lists for Angular" - [Read on Habr](https://habr.com/ru/articles/1045909) </br>
 > "We design a professional front-end for a messenger" - [Read on Medium](https://medium.com/@djonnyx/we-design-a-professional-front-end-for-a-messenger-c68030d1d73d) </br>
 
