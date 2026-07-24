@@ -5,7 +5,7 @@ Passionate about creating efficient tools for creating high-speed interfaces.
 In my free time: developing frontend tools and learning new technologies.
 
 * **Frontend**: React, React Native, Angular
-* **Backend**: Node.js, Express
+* **Backend**: Node.js
 * **Languages**: TypeScript, JavaScript
 * **Tools & Technologies**: Docker, Webpack, Git
 
